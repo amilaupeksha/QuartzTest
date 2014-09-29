@@ -1,0 +1,1 @@
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe.config
