@@ -18,10 +18,10 @@ namespace TestQuartz
         /// </summary>
         /// <param name="context">The context.</param>
         /// <exception cref="System.NotImplementedException"></exception>
-       public void Excute(IJobExecutionContext  context) 
+       public void Execute(IJobExecutionContext context) 
        {
            // TODO: Implement this
-           throw new System.NotImplementedException();
+           Console.WriteLine("Hello World!");
        }
     }
 }

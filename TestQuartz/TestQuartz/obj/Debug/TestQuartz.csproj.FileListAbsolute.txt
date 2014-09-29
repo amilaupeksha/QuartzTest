@@ -1,1 +1,12 @@
 C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe.config
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\TestQuartz.pdb
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\Common.Logging.dll
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\Quartz.dll
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\Common.Logging.pdb
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\Common.Logging.xml
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\Quartz.pdb
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\bin\Debug\Quartz.xml
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\obj\Debug\TestQuartz.exe
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\obj\Debug\TestQuartz.pdb
+C:\Users\Amila.Abeyrathne\Documents\GitHub\QuatzTest01\QuartzWorker\QuartzWorker\QuartzTest\TestQuartz\TestQuartz\obj\Debug\TestQuartz.csprojResolveAssemblyReference.cache
